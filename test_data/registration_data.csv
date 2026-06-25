@@ -1,0 +1,12 @@
+*** Test Cases ***,${Firstname},${Lastname},${Address},${City},${State},${Zipcode},${Phno},${SSN},${Username},${Password},${Confirm}
+Register haleydunphy,Haley,Dunphy,,London,UK,100001,9999999991,123456,Haley,1234,1234
+Register camerontucker,Cameron,Tucker,,Paris,France,200002,9999999992,567890,Cameron,4567,4567
+Register gloriapritchett,Gloria,Pritchett,,Rome,Italy,300003,9999999993,987654,Gloria,7891,7891
+Register alexdunphy,Alex,Dunphy,,Berlin,Germany,400004,9999999994,456123,Alex,1569,1569
+Register lilypritchett,Lily,Pritchett,,Milan,Italy,500005,9999999995,789456,Lily,7532,7532
+Register phildunphy,Phil,Dunphy,,Florence,Italy,600006,9999999996,456123,Phil,7894,7894
+Register mannydelagado,Manny,Delagado,,Barcelona,Spain,700007,9999999997,951623,Manny,9854,9854
+Register clairedunphy,Claire,Dunphy,,Athens,Greece,80008,9999999998,789456,Claire,7947,7947
+Register jaypritchett,Jay,Pritchett,,Rome,Italy,300003,9999999999,987654,Jay,7531,7531
+Register lukedunphy,Luke,Dunphy,,Paris,France,200002,9999999981,567890,Luke,9512,9512
+Register mitchellpritchett,Mitchell,Pritchett,,Zurich,Switzerland,900009,9999999982,789456,Mitchell,7956,7956

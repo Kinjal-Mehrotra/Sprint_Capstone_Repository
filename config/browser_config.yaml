@@ -1,0 +1,18 @@
+qa:
+  baseurl:  'https://parabank.parasoft.com'
+  api_url:  'https://parabank.parasoft.com/parabank/services/bank/'
+  username:  'john'
+  user_password:  'demo'
+  user_fullname:  'John Smith'
+#dev:
+#  baseurl:  'https://parabank.parasoft.com'
+#  api_url:  'https://parabank.parasoft.com/parabank/services/bank'
+#  username:  'john'
+#  user_password:  'demo'
+#  user_fullname:  'John Smith'
+#prod:
+#  baseurl:  'https://parabank.parasoft.com'
+#  api_url:  'https://parabank.parasoft.com/parabank/services/bank'
+#  username:  'john'
+#  user_password:  'demo'
+#  user_fullname:  'John Smith'
