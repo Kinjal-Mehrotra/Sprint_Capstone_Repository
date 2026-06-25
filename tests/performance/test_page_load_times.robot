@@ -10,6 +10,9 @@ Suite Setup  Load Environment
 Test Setup  Open Application
 Test Teardown  Close Application
 
+*** Variables ***
+${find_transactions_link}  xpath=//a[@href="findtrans.htm"]
+
 *** Test Cases ***
 TC-PERF-UI-01 Capture page load times - create account page
     [Documentation]  Verifies that the Create Account and Transfer Funds UI pages fully load and all interactive elements are ready within 3 seconds.
